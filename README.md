@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Your Name**
 - GitHub: [@Varshith4570](https://github.com/Varshith4570)
-- LinkedIn: Varshith Reddy(www.linkedin.com/in/varshith-reddy-)
+- LinkedIn:0[ Varshith Reddy](www.linkedin.com/in/varshith-reddy-)
 
 ## 🙏 Acknowledgments
 
@@ -108,7 +108,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-For any queries or suggestions, reach out at: varshithreddy4570.com
+For any queries or suggestions, reach out at: varshithreddy4570@gmail.com
 
 ---
 
